@@ -7,9 +7,13 @@
 
 <pre><code> git clone https://github.com/omid-d94/doordash.git </code></pre>
 
-- change directory to doordash and install bootstrap from package.json
+- change directory to doordash
 
-<pre><code> cd doordash & npm install </code></pre>
+<pre><code> cd doordash </code></pre>
+
+- install bootstrap from package.json
+
+<pre><code> npm install </code></pre>
 
 - serve the index file 
 
